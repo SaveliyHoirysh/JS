@@ -83,6 +83,14 @@ for(let y = 45; y<=670; y++){
 }
 console.log("===========================");
 
+//Задание 8
+//Напишите функцию hello1(), которая при вызове будет возвращать строку «Привет, JavaScript!».
+
+function hello1() {
+    console.log("Привет, JavaScript!")
+    return
+}
+hello1();
 
 
 
